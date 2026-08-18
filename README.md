@@ -11,7 +11,6 @@
 [![Ads](https://img.shields.io/badge/Third--Party%20Ads-None-success?style=for-the-badge)](./PRIVACY_POLICY.md)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](./LICENSE)
 
-<img src="assets/banner.png" alt="Name Days — Calendar banner" width="100%" />
 
 ## Screenshots
 
@@ -19,6 +18,7 @@
 <img src="assets/screenshots/screen2.png" alt="Country calendar" width="180" />
 <img src="assets/screenshots/screen3.png" alt="Search and favorites" width="180" />
 <img src="assets/screenshots/screen4.png" alt="Reminders and widget" width="180" />
+<img src="assets/screenshots/screen5.png" alt="Premium" width="180" />
 
 </div>
 
