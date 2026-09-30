@@ -192,25 +192,7 @@ Found a wrong name or date? Include the country, date and a reliable source in a
 <img src="assets/screenshots/screen5tab.png" alt="Purchases on tablet" width="280" />
 </div>
 
-<details>
-<summary>🇷🇴 Romanian promotional assets</summary>
 
-<img src="assets/Romanian/logo.png" alt="Logo Name Days" width="120" />
-<img src="assets/Romanian/banner.png" alt="Banner Name Days în română" width="100%" />
-
-<img src="assets/Romanian/screenshots/screen1.png" alt="Numele zilei" width="180" />
-<img src="assets/Romanian/screenshots/screen2.png" alt="Căutare" width="180" />
-<img src="assets/Romanian/screenshots/screen3.png" alt="Favorite" width="180" />
-<img src="assets/Romanian/screenshots/screen4.png" alt="Setări" width="180" />
-<img src="assets/Romanian/screenshots/screen5.png" alt="Premium și Supporter" width="180" />
-
-<img src="assets/Romanian/screenshots/screen1tab.png" alt="Numele zilei pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen2tab.png" alt="Căutare pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen3tab.png" alt="Favorite pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen4tab.png" alt="Setări pe tabletă" width="280" />
-<img src="assets/Romanian/screenshots/screen5tab.png" alt="Achiziții pe tabletă" width="280" />
-
-</details>
 
 ---
 
