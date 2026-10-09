@@ -22,7 +22,8 @@ Clean. Fast. Free with optional ad-free Supporter tiers.
 <img src="assets/screenshots/screen2.png" alt="Name search" width="180" />
 <img src="assets/screenshots/screen3.png" alt="Favorites and upcoming" width="180" />
 <img src="assets/screenshots/screen4.png" alt="Settings and widget customization" width="180" />
-<img src="assets/screenshots/screen5.png" alt="Premium and Supporter options" width="180" />
+<img src="assets/screenshots/screen5.png" alt="Languages" width="180" />
+<img src="assets/screenshots/screen6.png" alt="Premium and Supporter options" width="180" />
 </div>
 
 ---
